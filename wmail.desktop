@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WMail
+Comment=The missing desktop client for Gmail & Google Inbox
+Exec=wmail -- %u
+StartupWMClass=WMail
+Icon=wmail
+Terminal=false
+Type=Application
+GenericName=The missing desktop client for Gmail & Google Inbox
+Categories=Network;Email;
+X-Desktop-File-Install-Version=0.1
+Name[en_US]=WMail
